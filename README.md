@@ -1,5 +1,23 @@
-# Robotics-Study-Group-IEEE
+# Robotics Study Group IEEE
+
+###### [EN]
+
+The Robotics Study Group aims to contribute to the learning of newcomers, where they can develop their knowledge in electronics, programming and microcontrollers (Arduino) through the practices documented in scripts.
 
 
-### [PT] 
-Nós do grupo de estudo de robótica do ramo estudantil IEEE, na Universidade Federal da Paraíba (UFPB), temos como propósito difundir os conceitos de robótica na região. Com membros dos níveis mais básicos aos mais avançados, nós promovemos um ambiente colaborativo, onde os alunos podem aprender e ensinar conceitos a respeito da área de robótica, usando a metodologia “learning by doing”, ou em tradução livre “Aprenda fazendo”. Desse modo, nos mantemos focados na prática, com uma pequena introdução teórica sobre o tema estudado, sendo de extrema importância para os alunos, que assim conseguem desenvolver seus conhecimentos e realizar atividades práticas nas áreas de eletrônica, programação na linguagem C e no microcontrolador Arduino
+### Information
+
+Lessons are being given by [Abraão Állysson](https://br.linkedin.com/in/abraaohonorio) and [Yuri Oliveira](https://www.facebook.com/yuri.oliveira.509).
+
+
+### Have a question or suggestion?			
+
+Contact us on [Linkedin](https://www.facebook.com/ramoieee.ufpb/), send an email to sb.ufpb@ieee.org, or create a pull request in this project. 
+
+---
+  
+  License
+----
+MIT
+
+
