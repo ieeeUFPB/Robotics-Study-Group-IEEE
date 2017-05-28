@@ -12,7 +12,7 @@ Lessons are being given by [Abraão Állysson](https://br.linkedin.com/in/abraao
 
 ### Have a question or suggestion?			
 
-Contact us on [Linkedin](https://www.facebook.com/ramoieee.ufpb/), send an email to sb.ufpb@ieee.org, or create a pull request in this project. 
+Contact us on [Facebook](https://www.facebook.com/ramoieee.ufpb/), send an email to sb.ufpb@ieee.org, or create a pull request in this project. 
 
 ---
   
