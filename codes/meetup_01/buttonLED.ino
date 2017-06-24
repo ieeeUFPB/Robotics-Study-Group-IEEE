@@ -1,6 +1,6 @@
 /* Grupo-de-robotica-IEEE  - UFPB
  *  Programa : IHM  - ligando um led com botao
- * Instrutores: Abraão Állysson e Yuri Oliveira 
+ *  Instrutores: Abraão Állysson e Yuri Oliveira 
  */
  
 
